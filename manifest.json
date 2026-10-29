@@ -1,0 +1,65 @@
+  {
+  "background_color": "#ffffff",
+  "description": "Alaga helps patients track medicines and send SOS alerts, while family caregivers check in and assign medicines.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Alaga",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Alaga",
+  "start_url": "/",
+  "theme_color": "#033A47",
+  "icons": [
+    {
+      "src": "https://alaga-amoncio-naritaa.vercel.app/icon-light-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 32,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://alaga-amoncio-naritaa.vercel.app/icon-dark-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 32,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://alaga-amoncio-naritaa.vercel.app/icon.svg",
+      "type": "image/svg+xml",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://alaga-amoncio-naritaa.vercel.app/apple-icon.png",
+      "type": "image/png",
+      "sizes": "180x180",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 180,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}
