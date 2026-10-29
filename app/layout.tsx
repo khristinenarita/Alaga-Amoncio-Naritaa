@@ -10,7 +10,7 @@ const sans = Source_Sans_3({
   variable: '--font-alaga-sans',
 })
 
-const serif = Source_Serif_4({
+const serif = Source_Serif_4({  
   subsets: ['latin'],
   weight: ['600', '700'],
   variable: '--font-alaga-serif',
@@ -20,6 +20,7 @@ export const metadata: Metadata = {
   title: 'Alaga – Interactive Navigation Flow',
   description:
     'Alaga helps patients track medicines and send SOS alerts, while family caregivers check in and assign medicines.',
+  manifest: '/manifest.json',
   generator: 'v0.app',
   icons: {
     icon: [
